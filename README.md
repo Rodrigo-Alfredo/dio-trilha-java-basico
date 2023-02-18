@@ -1,3 +1,3 @@
-# dio-trilha-java-
-Este repositorio tem o proposito de apresentar a solução do desadio proposo pela dio (Digital Innovation One) no apresndizado de java 
+  # dio-trilha-java-
+Este repositorio tem o proposito de apresentar a solução do desafio  proposto pela DIO (Digital Innovation One) durante o aprendi da trilha de java 
 básico
